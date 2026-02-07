@@ -1,0 +1,160 @@
+{
+  "book_id": "feminist_wave_satirical_prose_memory_identity",
+  "title": "The Manifesto of the Unsettled Girl",
+  "tagline": "A daughter excavates her mother's radical past to understand her own uncertain future.",
+  "target_words": 70000,
+  "actual_words": 70986,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Intergenerational Feminist Legacy",
+    "The Domestic as Political Battleground",
+    "Archival Memory & Personal Mythology",
+    "The Satire of Co-opted Rebellion"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Fitted Sheet",
+      "words": 2950
+    },
+    {
+      "ch": 2,
+      "title": "Dream Big (But Have a Backup Plan)",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "The Tastefully Embossed Envelope",
+      "words": 2950
+    },
+    {
+      "ch": 4,
+      "title": "The Ghost of Kite",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "Riot Grrrl Rampage",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "Rule 4: Amplify Until Their Ears Bleed",
+      "words": 2950
+    },
+    {
+      "ch": 7,
+      "title": "The West Coast Institute",
+      "words": 2950
+    },
+    {
+      "ch": 8,
+      "title": "A Lecture on Guacamole Casualties",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "Marsha's Yurt",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "The Action at the Draft Board",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "Pre-Shredded Cheese Philosophy",
+      "words": 2950
+    },
+    {
+      "ch": 12,
+      "title": "The Toppled Statue",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "FINAL CHAPTER",
+      "words": 2950
+    },
+    {
+      "ch": 14,
+      "title": "The Property Tax Manifesto",
+      "words": 2950
+    },
+    {
+      "ch": 15,
+      "title": "Bourgeois Pacification (Lilac)",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "Sisterhood Is a Forge",
+      "words": 2950
+    },
+    {
+      "ch": 17,
+      "title": "A Neurological Event",
+      "words": 2950
+    },
+    {
+      "ch": 18,
+      "title": "The Conceptual Artist's Draft",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "The Unspoken Disappointment",
+      "words": 2950
+    },
+    {
+      "ch": 20,
+      "title": "The Logbook",
+      "words": 2950
+    },
+    {
+      "ch": 21,
+      "title": "Eleanor Rigby with Better Bone Structure",
+      "words": 2950
+    },
+    {
+      "ch": 22,
+      "title": "A Fish Without a Bicycle",
+      "words": 2950
+    },
+    {
+      "ch": 23,
+      "title": "The Perpetual Progress",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "If You Are Not Becoming",
+      "words": 2954
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a letter from Marsha to Eleanor, 20 years after the draft board action, explaining why she sent the boxes.",
+      "Compose a new 'Rule' for the Manifesto of the Unsettled Girl, from Clementine's modern perspective.",
+      "Script the confrontation between Eleanor and the administrator of the West Coast Institute, where her past and present collide.",
+      "Describe the 'brick of tofu through the Bank of America window' incident from the perspective of a bewildered bank teller."
+    ],
+    "technical": [
+      "Build a 'Zine Generator' that creates a digital collage of text, slogans, and imagery from the novel's archival fragments.",
+      "Design an interactive map tracing the geographic and ideological journey of Eleanor's revolution, from collective actions to the California kitchen."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Jenny Offill",
+      "Katherine Dunn",
+      "Miriam Toews",
+      "Nora Ephron"
+    ]
+  },
+  "cover_prompt": "A young woman sits on the floor of a cluttered, sun-drenched attic, intently examining a faded protest banner, her expression a mix of curiosity and resolve, [Detailed Scene & Context: The scene is rich with intergenerational artifacts; open cardboard boxes spill 1970s feminist zines, political buttons, and handwritten journals alongside modern laptop and smartphone, symbolizing the clash and connection of eras. Domestic items—a vintage iron, a plate with a forgotten sandwich—are juxtaposed with radical ephemera, framing the domestic as a political archive], [Artistic Style & Medium: in the detailed, narrative-rich style of domestic surrealism akin to Elena Gual's paintings, with the textured, layered collage sensibility of Jessie Makinson, rendered in matte acrylic and delicate ink lines on heavy paper], [Composition & Camera: book cover framing, a centered and intimate composition with a slightly elevated angle looking down into the attic space, creating a sense of excavation and discovery, the central subject connected to a periphery of symbolic objects], [Lighting & Color Palette: warm, dusty afternoon light streams through a single attic window, creating strong shafts of illumination that highlight the central figure and specific artifacts, casting deep, nostalgic shadows; color palette of faded terracotta, ochre, cream, and sage green, punctuated by the bold vermillion of the old banner], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
