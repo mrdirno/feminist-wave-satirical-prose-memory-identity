@@ -1,6 +1,10 @@
+# Chapter 1
+
 ## CHAPTER 1
 
-The first time I realized my mother was a failed revolutionary was when I saw her fold a fitted sheet. It was a Tuesday. The sheet was lilac, a color she’d have once denounced as bourgeois pacification. She stood in the slanting afternoon light of our California kitchen, a battlefield of granite and stainless steel, and performed the ritual with a terrifying, serene expertise. Each elastic corner met its mate; the rebellious, poufy middle was tamed into a series of sharp, obedient planes. She finished with a final pat, a gesture of such conclusive domesticity that it felt like a surrender. The sheet sat on the counter, a perfect, lavender rectangle. A little tombstone for the woman who, according to family lore, had once thrown a brick of tofu through the window of a Bank of America.
+Clara’s memoir began with a lie, which was fitting, as her entire life had been a carefully curated performance for an audience of one: her future, more enlightened self. The ink was expensive, the paper handmade, the trauma conveniently condensed into three marketable acts.
+
+
 
 “Perfection is a tool of the patriarchy, Mom,” I said, slouching against the fridge. I was sixteen and my own rebellion was a patchwork of her discarded ideologies, worn ironically.
 
@@ -133,6 +137,8 @@ I got up, took my Pop-Tart, and walked out. I didn’t look back. But I felt it.
 The Unsettled Girl was awake. And she was hungry.
 
 ---
+# Chapter 2
+
 ## CHAPTER 2
 
 The college counselor’s office smelled of despair and potpourri. Mrs. Gleeson sat behind a desk that was a monument to positive thinking, littered with stress balls shaped like globes and a plaque that read **DREAM BIG! (But Have a Backup Plan)**.
@@ -272,6 +278,8 @@ I stared at my additions. They weren’t rules. They were questions. The Unsettl
 And for now, that would have to be enough.
 
 ---
+# Chapter 3
+
 ## CHAPTER 3
 
 The complication arrived not with a shout, but with a tastefully embossed envelope. It sat on the kitchen counter like a landmine, addressed to Ms. Eleanor Vance. The return address was for the West Coast Institute for Gender and Social Equity. It looked important. It looked like money.
